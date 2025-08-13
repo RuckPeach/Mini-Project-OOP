@@ -1,0 +1,5 @@
+com\example\buffet\service\BuffetManager.class
+com\example\buffet\web\BuffetServlet.class
+com\example\buffet\model\Table.class
+com\example\buffet\model\TableStatus.class
+com\example\buffet\model\QueueItem.class
